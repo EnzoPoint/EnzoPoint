@@ -19,7 +19,7 @@ I love Watch Serie and Moovie (🤩)
 
 # My Song & Playlist of the Moment
 
-[![Spotify](https://github.com/Enzo2911/Enzo2911/blob/main/info/spotifysong.png)](https://open.spotify.com/album/34xIafyhgdO8NhS5leUZps)
+[![Spotify](https://github.com/Enzo2911/Enzo2911/blob/main/info/spotifysong.png)](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o?highlight=spotify:track:7KA4W4McWYRpgf0fWsJZWB)
 
 ## My Project Stats
 <br>
