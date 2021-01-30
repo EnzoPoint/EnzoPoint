@@ -1,7 +1,15 @@
 # MyStatsGithub
 <html>
 <head>
-<link href="https://github.com/Enzo2911/Enzo2911/blob/master/index.css" rel="stylesheet" />
+<style type="text/css">	
+body { 
+  background: url("https://github.com/Enzo2911/Enzo2911/blob/master/img/Wallpaper.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+</style>
 </head>
 <body>
 <a href="https://github.com/Enzo2911/github-readme-stats">
