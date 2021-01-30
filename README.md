@@ -19,7 +19,7 @@ I love Watch Serie and Moovie (🤩)
 
 # My Song & Playlist of the Moment
 
-<img src="https://github.com/Enzo2911/Enzo2911/blob/main/info/Screenshot_1.png" href="https://open.qobuz.com/track/101790485" width="480" height="140"/> 
+[![Spotify](https://github.com/viclafouch/viclafouch/blob/master/img/spotify-480.png)](https://open.spotify.com/album/34xIafyhgdO8NhS5leUZps)
 
 ## My Project Stats
 <br>
@@ -29,3 +29,5 @@ I love Watch Serie and Moovie (🤩)
    <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Enzo2911&count_private=true"/> -->
 </a>
 
+
+<!-- Thanks to https://github.com/viclafouch for inspiration -->
