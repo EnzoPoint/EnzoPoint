@@ -19,7 +19,7 @@ I love Watch Serie and Moovie (🤩)
 
 # My Song & Playlist of the Moment
 
-[![Qobuz] <img src="https://github.com/Enzo2911/Enzo2911/blob/main/info/Screenshot_1.png"  width="480"/> 
+<img src="https://github.com/Enzo2911/Enzo2911/blob/main/info/Screenshot_1.png" href="https://open.qobuz.com/track/101790485" width="480" height="140"/> 
 
 ## My Project Stats
 <br>
