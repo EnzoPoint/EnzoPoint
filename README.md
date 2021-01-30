@@ -8,8 +8,9 @@ BLABLA
 
 ## Get in touch
 
-BLABLA
-
+* 🔖 Discover My [Curriculum Vitae](pasencore) <br>
+* ✍🏻 Write Me [LinkedIn](https://www.linkedin.com/in/Enzo2911) <br/>
+* 📫 Contact Me [Email](<a href="mailto:enzo.carpentier.pro@gmail.com"/>) <br>
 
 ## My Project Stats
 <br>
