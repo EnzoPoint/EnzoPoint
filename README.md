@@ -1,6 +1,6 @@
 # Enzo.
 
-<p> Hi, I'm Enzo .. young programmer based in france live around paris, i have 18 years old, i am currently in BTS SIO where I try to learn as much as I can. </p>
+<p> Hi, I'm Enzo .. Young Programmer based in france live around paris, i have 18 years old, i am currently in BTS SIO where I try to learn as much as I can. </p>
 
 ## How i Work
 
@@ -15,7 +15,11 @@ BLABLA
 
 ## My Hobbies 
 
-I love Watch Serie and Moovie ()
+I love Watch Serie and Moovie (🤩)
+
+# My Song & Playlist of the Moment
+
+[![Qobuz](https://github.com/viclafouch/viclafouch/blob/master/img/spotify-480.png)](http://open.qobuz.com/track/109339233)
 
 ## My Project Stats
 <br>
