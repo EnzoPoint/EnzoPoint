@@ -12,6 +12,10 @@ BLABLA
 * ✍🏻 Write Me [LinkedIn](https://www.linkedin.com/in/Enzo2911) <br/>
 * 📫 Contact Me [Email](mailto:enzo.carpentier.pro@gmail.com) <br>
 
+## My Hobbies 
+
+I love Watch Serie and Moovie ()
+
 ## My Project Stats
 <br>
 <a href="https://github.com/Enzo2911/github-readme-stats">
