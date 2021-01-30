@@ -18,6 +18,7 @@ BLABLA
 I love Watch Serie and Moovie (🤩)
 
 # My Song & Playlist of the Moment
+<iframe src="https://open.spotify.com/embed/track/7KA4W4McWYRpgf0fWsJZWB" width="480" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 [![Spotify](https://github.com/viclafouch/viclafouch/blob/master/img/spotify-480.png)](https://open.spotify.com/album/34xIafyhgdO8NhS5leUZps)
 
