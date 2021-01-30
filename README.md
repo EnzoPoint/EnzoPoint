@@ -1,6 +1,6 @@
 # Enzo.
 
-Hi, I'm Enzo .. based in france live around paris // i have 18 years old // I am currently in BTS SIO where I try to learn as much as I can.
+<p> Hi, I'm Enzo .. based in france live around paris, i have 18 years old, i am currently in BTS SIO where I try to learn as much as I can. </p>
 
 ## How i Work
 
