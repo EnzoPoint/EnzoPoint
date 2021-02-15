@@ -22,7 +22,9 @@ I love Watch Serie and Moovie (🤩)
 <a href="https://github.com/Enzo2911/RainMeter-Themes">
   <img src="https://github.com/Enzo2911/RainMeter-Themes/blob/main/ViewGlobal.jpg"/>
 </a>
+
 ## My Project Stats
+
 <br>
 <a href="https://github.com/Enzo2911/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Enzo2911&count_private=true&show_icons=true&theme=radical"/>
