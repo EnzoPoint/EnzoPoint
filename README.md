@@ -22,6 +22,7 @@ I love Watch Serie and Moovie (🤩)
 <a href="https://github.com/Enzo2911/RainMeter-Themes">
   <img src="https://github.com/Enzo2911/RainMeter-Themes/blob/main/View Global.jpg"/>
 </a>
+Update : I try ubuntu x=)
 
 ## My Project Stats
 
