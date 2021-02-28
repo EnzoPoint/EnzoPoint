@@ -22,6 +22,7 @@ I love Watch Serie and Moovie (🤩)
 <a href="https://github.com/Enzo2911/RainMeter-Themes">
   <img src="https://github.com/Enzo2911/RainMeter-Themes/blob/main/View Global.jpg"/>
 </a>
+<br>
 Update : I try ubuntu x=) and rainmeter is not compatible
 
 ## My Project Stats
