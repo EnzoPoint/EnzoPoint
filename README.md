@@ -5,7 +5,7 @@
 ## Get in touch
 
 * <img src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Ffavicon.ico"  width="16"/> &nbsp; Find all [My Glitch Project](https://glitch.com/@Enzo2911) <br>
-* 🔖 Discover My Curriculum Vitae [English Version](http://portfolio-enzo.ml/CV/CV_ENZO_CARPENTIER_EN.pdf) // [French Version](http://portfolio-enzo.ml/CV/CV_ENZO_CARPENTIER_FR.pdf)<br>
+* 🔖 Discover My Curriculum Vitae [English Version](http://portfolio-enzo.ml/CV/CV_ENZo_EN.pdf) // [French Version](http://portfolio-enzo.ml/CV/CV_ENZO_FR.pdf)<br>
 * ✍🏻 Write Me [LinkedIn](https://www.linkedin.com/in/Enzo) <br/>
 * 📫 Contact Me [Email](mailto:enzo@gmail.com) <br>
 
