@@ -5,7 +5,6 @@
 ## Get in touch
 
 * <img src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Ffavicon.ico"  width="16"/> &nbsp; Find all [My Glitch Project](https://glitch.com/@Enzo2911) <br>
-* 🔖 Discover My Curriculum Vitae [English Version](http://portfolio-enzo.ml/CV/CV_ENZo_EN.pdf) // [French Version](http://portfolio-enzo.ml/CV/CV_ENZO_FR.pdf)<br>
 * ✍🏻 Write Me [LinkedIn](https://www.linkedin.com/in/enzopoint) <br/>
 * 📫 Contact Me [Email](mailto:EnzoBartPoint@gmail.com) <br>
 
@@ -30,5 +29,4 @@ I love Watch Serie and Moovie (🤩)
 <a href="https://github.com/EnzoPoint/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=EnzoPoint&count_private=true&show_icons=true&theme=radical"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPoint&count_private=true&show_icons=true&theme=radical"/>
-  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EnzoPoint&count_private=true"/> -->
 </a>
