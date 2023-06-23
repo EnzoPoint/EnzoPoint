@@ -26,6 +26,5 @@ I love Watch Serie and Moovie (🤩)
 <br>
 <br>
 <a href="https://github.com/EnzoPoint/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EnzoPoint&count_private=true&show_icons=true&theme=radical"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPoint&count_private=true&show_icons=true&theme=radical"/>
 </a>
